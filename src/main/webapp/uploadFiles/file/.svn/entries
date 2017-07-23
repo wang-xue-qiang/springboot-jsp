@@ -1,0 +1,42 @@
+10
+
+dir
+0
+svn://erdan.me/home/svn/fhadmin/WebContent/uploadFiles/file
+svn://erdan.me
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0bc95ab9-b8d8-4cdd-a132-d22059bafdc0
+
+Users.xls
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
